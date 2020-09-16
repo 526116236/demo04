@@ -1,0 +1,12 @@
+###查询所有用户
+GET http://localhost:8087/test
+content-type:application/json
+{
+}
+
+###查询所有用户
+GET http://localhost:8083/byrcjt/user/get
+content-type:application/json
+
+{
+}
